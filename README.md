@@ -10,11 +10,13 @@ Now I'm focused on building and shipping my own products, leveraging AI agents a
 
 Self-taught. Always building.
 
+> Currently building **AI-first developer tools** — making APIs agent-readable and CI pipelines self-healing.
+
 ---
 
 ### What I'm working on
 
-**[SWAGENT](https://github.com/x24labs/SWAGENT)** — API documentation for the agent era. Takes your OpenAPI spec and generates token-optimized `llms.txt` for AI agents, full markdown for developers, and semantic HTML for browsers. 65 KB → 16 KB, same information. Open source, on npm.
+**[SWAGENT](https://github.com/x24labs/SWAGENT)** [![GitHub stars](https://img.shields.io/github/stars/x24labs/SWAGENT?style=flat&color=yellow)](https://github.com/x24labs/SWAGENT) — API documentation for the agent era. Takes your OpenAPI spec and generates token-optimized `llms.txt` for AI agents, full markdown for developers, and semantic HTML for browsers. 65 KB → 16 KB, same information. Open source, on npm.
 
 **[Stitch](https://github.com/byroblesh/Stitch)** — Open-source AI agent that autonomously detects, diagnoses, and fixes CI pipeline failures. Platform-agnostic. Orchestrator-agnostic.
 
@@ -37,6 +39,15 @@ Before that, I ran **Twenty Four Colors** (now [x24labs](https://github.com/x24l
 ### Stack
 
 `TypeScript` `Python` `Node.js` `React` `Remix` `Shopify Plus` `MongoDB` `Docker` `Azure`
+
+---
+
+### GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=byroblesh&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byroblesh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165">
+</p>
 
 ---
 
