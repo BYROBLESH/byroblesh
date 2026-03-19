@@ -2,7 +2,7 @@
 
 **Founder & Software Engineer**
 
-20+ years building software, shipping products, and starting businesses.
+Years building software, shipping products, and starting businesses.
 
 I've led architecture and development of e-commerce platforms, in-store digital experiences, and cloud infrastructure for companies like **MediaMarkt** across Spain, Portugal, and Europe — from full platform migrations on Shopify Plus to custom CDN solutions with 95% cost reduction.
 
