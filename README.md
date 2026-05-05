@@ -18,9 +18,9 @@ Self-taught. Always building.
 
 **[SWAGENT](https://github.com/x24labs/SWAGENT)** [![GitHub stars](https://img.shields.io/github/stars/x24labs/SWAGENT?style=flat&color=yellow)](https://github.com/x24labs/SWAGENT) — API documentation for the agent era. Takes your OpenAPI spec and generates token-optimized `llms.txt` for AI agents, full markdown for developers, and semantic HTML for browsers. 65 KB → 16 KB, same information. Open source, on npm.
 
-**[Stitch](https://github.com/byroblesh/Stitch)** — Open-source AI agent that autonomously detects, diagnoses, and fixes CI pipeline failures. Platform-agnostic. Orchestrator-agnostic.
+**[Stitch Agent](https://stitch-agent.dev)** — Open-source AI agent that autonomously detects, diagnoses, and fixes CI pipeline failures. Platform-agnostic. Orchestrator-agnostic.
 
-**[Banners All Over](https://apps.shopify.com/banners-all-over)** — Shopify app for smart banner management with scheduling, targeting, and analytics. Built on Shopify Plus experience from years of enterprise e-commerce.
+**[Banners All Over](https://bannersallover.com)** — Shopify app for smart banner management with scheduling, targeting, and analytics. Built on Shopify Plus experience from years of enterprise e-commerce.
 
 ---
 
@@ -53,6 +53,14 @@ Before that, I ran **Twenty Four Colors** (now [x24labs](https://github.com/x24l
 
 ### Links
 
+**Personal**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-byroblesh-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/byroblesh)
 [![Web](https://img.shields.io/badge/hugorobles.com-000?logo=google-chrome&logoColor=white)](https://hugorobles.com)
+[![GitHub](https://img.shields.io/badge/GitHub-byroblesh-181717?logo=github&logoColor=white)](https://github.com/byroblesh)
+
+**Products**
+
 [![SWAGENT](https://img.shields.io/badge/swagent.dev-000?logo=google-chrome&logoColor=white)](https://swagent.dev)
+[![Stitch Agent](https://img.shields.io/badge/stitch--agent.dev-000?logo=google-chrome&logoColor=white)](https://stitch-agent.dev)
+[![Banners All Over](https://img.shields.io/badge/bannersallover.com-95BF47?logo=shopify&logoColor=white)](https://bannersallover.com)
