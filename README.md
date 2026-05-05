@@ -1,24 +1,20 @@
-# Robles. H.
+# Hugo Robles
 
 **Founder & Software Engineer**
 
-Years building software, shipping products, and starting businesses.
+20+ years building software, shipping products, and starting businesses. Self-taught. Always building.
 
-I've led architecture and development of e-commerce platforms, in-store digital experiences, and cloud infrastructure for companies like **MediaMarkt** across Spain, Portugal, and Europe — from full platform migrations on Shopify Plus to custom CDN solutions with 95% cost reduction.
+Now focused on indie products at the intersection of AI agents and developer tooling, leveraging modern infrastructure to ship like a team of ten.
 
-Now I'm focused on building and shipping my own products, leveraging AI agents and modern infrastructure to move fast.
-
-Self-taught. Always building.
-
-> Currently building **AI-first developer tools** — making APIs agent-readable and CI pipelines self-healing.
+> Indie founder shipping AI-first developer tools, making APIs agent-readable and CI pipelines self-healing.
 
 ---
 
 ### What I'm working on
 
-**[SWAGENT](https://github.com/x24labs/SWAGENT)** [![GitHub stars](https://img.shields.io/github/stars/x24labs/SWAGENT?style=flat&color=yellow)](https://github.com/x24labs/SWAGENT) — API documentation for the agent era. Takes your OpenAPI spec and generates token-optimized `llms.txt` for AI agents, full markdown for developers, and semantic HTML for browsers. 65 KB → 16 KB, same information. Open source, on npm.
+**[SWAGENT](https://swagent.dev)** [![GitHub stars](https://img.shields.io/github/stars/x24labs/SWAGENT?style=flat&color=yellow)](https://github.com/x24labs/SWAGENT) — API documentation for the agent era. Takes your OpenAPI spec and generates token-optimized `llms.txt` for AI agents, full markdown for developers, and semantic HTML for browsers. 65 KB → 16 KB, same information. Open source, on npm.
 
-**[Stitch Agent](https://stitch-agent.dev)** — Open-source AI agent that autonomously detects, diagnoses, and fixes CI pipeline failures. Platform-agnostic. Orchestrator-agnostic.
+**[Stitch Agent](https://stitch-agent.dev)** [![GitHub stars](https://img.shields.io/github/stars/byroblesh/Stitch?style=flat&color=yellow)](https://github.com/byroblesh/Stitch) — Open-source AI agent that autonomously detects, diagnoses, and fixes CI pipeline failures. Platform-agnostic. Orchestrator-agnostic.
 
 **[Banners All Over](https://bannersallover.com)** — Shopify app for smart banner management with scheduling, targeting, and analytics. Built on Shopify Plus experience from years of enterprise e-commerce.
 
@@ -28,7 +24,7 @@ Self-taught. Always building.
 
 Most of my career was spent at **MediaMarkt** (9+ years), where I was technical owner and lead across their most critical digital projects in Iberia:
 
-- **MediaMarkt Canarias E-Commerce** — Full ownership of the Shopify Plus operation. Built an ecosystem of 6 custom embedded apps powering checkout, logistics, invoicing, refunds, fraud prevention, and operations.
+- **MediaMarkt Canarias E-Commerce** — Full ownership of the Shopify Plus operation. Built an ecosystem of 6 custom embedded apps powering checkout, logistics, invoicing, refunds, fraud prevention, and operations. Custom CDN solution with 95% cost reduction.
 - **MediaMarkt Portugal** — Led the full architecture and migration to Shopify. +50% sales in month one, 2900% maintenance cost reduction.
 - **MediaMarkt Tech Hub Barcelona** — Global technology solutions for 15 countries. Omnichannel innovation, in-store digital touchpoints, daily collaboration with teams across Europe.
 
@@ -38,7 +34,9 @@ Before that, I ran **Twenty Four Colors** (now [x24labs](https://github.com/x24l
 
 ### Stack
 
-`TypeScript` `Python` `Node.js` `React` `Remix` `Shopify Plus` `MongoDB` `Docker` `Azure`
+**Languages** — `TypeScript` `Python` `JavaScript`
+**Stack** — `Node.js` `Bun` `React` `Remix` `Shopify Plus`
+**Infra** — `Docker` `MongoDB` `Azure`
 
 ---
 
@@ -48,6 +46,12 @@ Before that, I ran **Twenty Four Colors** (now [x24labs](https://github.com/x24l
   <img src="https://github-readme-stats-nine-wine-44.vercel.app/api?username=byroblesh&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&v=2" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats-nine-wine-44.vercel.app/api/top-langs/?username=byroblesh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165">
 </p>
+
+---
+
+### Open to
+
+Collaborations, advisory roles, and conversations about AI agents, developer tooling, and indie products. Reach out via [LinkedIn](https://linkedin.com/in/byroblesh) or [hugorobles.com](https://hugorobles.com).
 
 ---
 
