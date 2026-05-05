@@ -10,7 +10,7 @@ Now focused on indie products at the intersection of AI agents and developer too
 
 ---
 
-### What I'm working on
+### Launched
 
 **[SWAGENT](https://swagent.dev)** [![GitHub stars](https://img.shields.io/github/stars/x24labs/SWAGENT?style=flat&color=yellow)](https://github.com/x24labs/SWAGENT) — API documentation for the agent era. Takes your OpenAPI spec and generates token-optimized `llms.txt` for AI agents, full markdown for developers, and semantic HTML for browsers. 65 KB → 16 KB, same information. Open source, on npm.
 
@@ -22,13 +22,21 @@ Now focused on indie products at the intersection of AI agents and developer too
 
 ### Background
 
-Most of my career was spent at **MediaMarkt** (9+ years), where I was technical owner and lead across their most critical digital projects in Iberia:
+20+ years on an entrepreneurial path: founding studios, launching brands and startups, co-founding media platforms, and shipping my own products. Along the way I've helped enterprises like **MediaMarkt** launch and scale critical technology across Iberia and Europe.
+
+**Ventures & brands I've built**
+
+- **Twenty Four Colors** (now [x24labs](https://github.com/x24labs)) — independent studio I founded and ran, delivering 50+ projects end-to-end for businesses across Spain.
+- **GrowLandia** — co-founded a digital media platform that scaled to 400K+ social followers and 2.5M+ monthly page views across all Spanish-speaking countries.
+- **SWAGENT**, **Stitch Agent**, **Banners All Over** — current indie products (see Launched).
+
+**Helping enterprises launch technology**
+
+9+ years embedded inside **MediaMarkt** as technical owner and lead across their most critical digital projects in Iberia:
 
 - **MediaMarkt Canarias E-Commerce** — Full ownership of the Shopify Plus operation. Built an ecosystem of 6 custom embedded apps powering checkout, logistics, invoicing, refunds, fraud prevention, and operations. Custom CDN solution with 95% cost reduction.
 - **MediaMarkt Portugal** — Led the full architecture and migration to Shopify. +50% sales in month one, 2900% maintenance cost reduction.
 - **MediaMarkt Tech Hub Barcelona** — Global technology solutions for 15 countries. Omnichannel innovation, in-store digital touchpoints, daily collaboration with teams across Europe.
-
-Before that, I ran **Twenty Four Colors** (now [x24labs](https://github.com/x24labs)), an independent studio where I delivered 50+ projects end-to-end for businesses across Spain. And co-founded **GrowLandia**, a digital media platform that grew to 400K+ social followers and 2.5M+ monthly page views across all Spanish-speaking countries.
 
 ---
 
