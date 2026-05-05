@@ -26,7 +26,7 @@ Now focused on indie products at the intersection of AI agents and developer too
 
 **Ventures & brands I've built**
 
-- **Twenty Four Colors** (now [x24labs](https://github.com/x24labs)) — independent studio I founded and ran, delivering 50+ projects end-to-end for businesses across Spain.
+- **Twenty Four Colors** (now [X24LABS](https://github.com/x24labs)) — independent studio I founded and ran, delivering 50+ projects end-to-end for businesses across Spain.
 - **GrowLandia** — co-founded a digital media platform that scaled to 400K+ social followers and 2.5M+ monthly page views across all Spanish-speaking countries.
 - **SWAGENT**, **Stitch Agent**, **Banners All Over** — current indie products (see Launched).
 
